@@ -1,0 +1,26 @@
+{
+  "name": "google-home-postman",
+  "version": "0.0.1",
+  "description": "Postman that works with google home",
+  "main": "index.js",
+  "dependencies": {
+    "actions-on-google": "^1.0.8",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "googleapis": "^18.0.0",
+    "lodash": "^4.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "google",
+    "home",
+    "postman",
+    "requests",
+    "restful"
+  ],
+  "author": "Nitesh Anand",
+  "license": "MIT"
+}
